@@ -1,0 +1,7 @@
+{
+    "yaml.schemas": {
+        "kubernetes": "*.yaml",
+        "kubernetes://schema/apps/v1@deployment": "file:///home/imad/devops/k8s/mongo-k8s/mongo-depl.yml",
+        "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///home/imad/devops/k8s/mongo-k8s/mongoexpress.yml"
+    }
+}
